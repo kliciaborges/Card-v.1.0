@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://wallpaper4k.top/wp-content/uploads/2023/10/City-Streets-Black-And-White-wallpaper-1018316-1024x640.jpg);
+}
+
+.card{
+    background-color: aliceblue;
+    width:300px;
+    padding: 20px;
+    border: 1px solid #000;
+    border-radius: 9px;
+    box-shadow: 0 4px 10px rgb(0, 0, 0);
+    text-align: center; 
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid black;
+    margin-bottom: 20px;
+    object-fit: cover;
+
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+p {
+    margin-bottom: 15px;
+}
+.about-me {
+    text-align: left;
+}
